@@ -1,10 +1,7 @@
-# Project "Sterling"
+# MotorPH Payroll System
 
-"Sterling" is the codename given for the Java application project being developed for **MotorPH** by Group 8 (S1101) of MO-IT101 - Computer Programming 1 (ComProg 1) of MMDC, Batch 2022-2023; in compliance to the Milestone requirements of the subject.
+This is a Java application developed as part of a project for **MotorPH**. Originally developed under the course MO-IT101 - Computer Programming 1 (ComProg 1) at MMDC, this version has been refactored and maintained solely by **Cris Gerald Tan**.
 
-**Group 8 Members**
+## Author
 
-* Chris Vincent Romero
-* Cris Gerald Tan
-* Sean Plaza
-* Maria Criselda Roncales
+- Cris Gerald Tan
